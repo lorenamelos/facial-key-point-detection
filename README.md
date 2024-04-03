@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This project was part of the Coursera's guided project *Emotion AI: Facial Key-points Detection*.
+This project was part of the Coursera's guided project ***Emotion AI: Facial Key-points Detection***.
 
 My certificate of completition can be found on my [Linkedin](www.linkedin.com/in/lorenamelodev).
 
-In this hands-on project, we will train deep learning model based on Convolutional Neural Networks (CNNs) and Residual Blocks to detect 15 facial key-points. This project could be practically used for detecting customer emotions and facial expressions.
+In this hands-on project, we will train deep learning model based on **Convolutional Neural Networks (CNNs)** and **Residual Blocks** to detect 15 facial key-points. This project could be practically used for detecting customer emotions and facial expressions.
 
 <hr>
 
